@@ -1,4 +1,4 @@
-ID,LotSize (sq ft),Bedrooms,Bathrooms,Price ($),YearBuilt,Neighborhood,Latitude,Longitude
+'ID','LotSize (sq ft)','Bedrooms','Bathrooms','Price ($)','YearBuilt','Neighborhood','Latitude','Longitude'
 1,4215,5,2.5,648629,19xx,Midtown,'?',-118.42714
 2,'?',6,'?',545688,'?',Downtown,'?',-118.241571
 3,large,5,'?',117380,1939,Midtown,33.782887,-118.893239
