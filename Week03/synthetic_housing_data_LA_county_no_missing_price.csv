@@ -1,4 +1,4 @@
-ID,LotSize (sq ft),Bedrooms,Bathrooms,Price ($),YearBuilt,Neighborhood,Latitude,Longitude
+'ID','LotSize (sq ft)','Bedrooms','Bathrooms','Price ($)','YearBuilt','Neighborhood','Latitude','Longitude'
 1,'large','Three',2.759817034086729,645883,'19xx','?',34.710391,-117.758203
 2,'large','?',2.5,435722,'19xx','Uptown','?',-118.738544
 3,8325,1,2.5,124701,'?','Outskirts',34.542165,'?'
